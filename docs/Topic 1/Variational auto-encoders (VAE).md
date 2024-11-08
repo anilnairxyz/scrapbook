@@ -6,11 +6,11 @@
 	- Unsupervised representation learning
 - Shallow LV model - Mixture of gaussians
 	- where the feature $\mathbf{z}$ is simply a categorical variable 
-	$$
-	\Large \mathbf{z} \sim categorical(1, ...., K)
-	$$ while $\mathbf{x}$ is a mixture of gaussians 
-	$$
-	\Large p(\mathbf{x | z} = k) = \mathcal{N}(\mu_k, \Sigma_k)
-	$$
+$$
+\Large \mathbf{z} \sim categorical(1, ...., K)
+$$ while $\mathbf{x}$ is a mixture of gaussians 
+$$
+\Large p(\mathbf{x | z} = k) = \mathcal{N}(\mu_k, \Sigma_k)
+$$
 	- Can use unsupervised clustering to extract latent features $z$
 	- Can combine simple models to form more complex models
