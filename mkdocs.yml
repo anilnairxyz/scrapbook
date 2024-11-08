@@ -22,6 +22,10 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
+    icon:
+      admonition:
+        note: material/note
+
 # Extensions
 markdown_extensions:
   - footnotes
@@ -60,11 +64,6 @@ plugins:
       categories:
         - categories
         - tags
-
-theme:
-  icon:
-    admonition:
-      note: material/note
 
 extra_javascript:
   - javascripts/mathjax.js
