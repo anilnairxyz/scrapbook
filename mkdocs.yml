@@ -22,6 +22,7 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
+    logo: logo.png
     icon:
       admonition:
         note: material/note
