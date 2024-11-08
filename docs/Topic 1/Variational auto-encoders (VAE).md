@@ -14,10 +14,12 @@ Use NN to model
 Unsupervised representation learning
 Shallow LV model - Mixture of gaussians
 where the feature $\mathbf{z}$ is simply a categorical variable 
+
 $$
 \mathbf{z} \sim categorical(1, ...., K)
 $$
 while $\mathbf{x}$ is a mixture of gaussians
+
 $$
 p(\mathbf{x | z} = k) = \mathcal{N}(\mu_k, \Sigma_k)
 $$
