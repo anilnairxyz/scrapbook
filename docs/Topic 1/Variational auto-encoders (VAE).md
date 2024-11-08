@@ -4,6 +4,7 @@ Capture latent features in a complex dataset
 Latent variables $z$ correspond to high level features
 $p(x | z)$ is easier to compute than $p(x)$ and we could identify features using $p(z|x)$
 Use NN to model 
+
 !!! note "Phasellus posuere in sem ut cursus"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
