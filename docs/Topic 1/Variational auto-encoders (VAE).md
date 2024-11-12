@@ -1,7 +1,3 @@
-# Motivation for latent variable models #
-
-- Capture latent features in a complex dataset
-- Latent variables $z$ correspond to high level features
 ## Motivation for latent variable models ##
 
 1. Capture latent features in a complex dataset
