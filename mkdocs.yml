@@ -42,7 +42,7 @@ theme:
 markdown_extensions:
   - footnotes
   - admonition
-  # - attr_list
+  - attr_list
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.superfences
