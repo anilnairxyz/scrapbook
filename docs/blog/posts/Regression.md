@@ -67,6 +67,6 @@ Multinomial logistic regression minimises the **cross-entropy loss**, which gene
 
 The main aim of regularisation is to prevent overfitting and improve generalisation. In logistic regression models there are several levels of regularisation
 
-1. L1 regularisation (Lasso) for feature selection (driving certain coefficients to zero) of the most important features encouraging sparsity of the model
-3. L2 regularisation (Ridge) prevents overfitting by constraining the weights (shrinking the coefficients) thereby reducing the variance of the model
+1. **L1 regularisation (Lasso)** for feature selection (driving certain coefficients to zero) of the most important features encouraging sparsity of the model
+3. **L2 regularisation (Ridge)** prevents overfitting by constraining the weights (shrinking the coefficients) thereby reducing the variance of the model
 
