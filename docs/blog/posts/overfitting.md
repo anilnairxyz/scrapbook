@@ -1,15 +1,16 @@
 ---
 draft: false
-date: 2024-11-09
-slug: observations
+date: 2024-11-30
+slug: overfitting
 categories:
-  - buddha
+  - learning
 tags:
-  - scratch
+  - ai
+  - ml
 ---
 
 
-# Hello World Blogpost
+# Overfitting 
 
 Blog excerpt here
 
